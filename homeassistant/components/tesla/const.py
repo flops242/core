@@ -12,6 +12,7 @@ TESLA_COMPONENTS = [
     "binary_sensor",
     "device_tracker",
     "switch",
+    "light",
 ]
 ICONS = {
     "battery sensor": "mdi:battery",
@@ -26,4 +27,5 @@ ICONS = {
     "location tracker": "mdi:crosshairs-gps",
     "charging rate sensor": "mdi:speedometer",
     "sentry mode switch": "mdi:shield-car",
+    "chargelimit slider": "mdi:battery",
 }
